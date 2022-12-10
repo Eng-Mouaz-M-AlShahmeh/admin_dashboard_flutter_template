@@ -1,4 +1,4 @@
-# Admin Dashboard Template
+# Flutter Admin Dashboard Template
 
 Developed by Eng Mouaz M AlShahmeh
 
